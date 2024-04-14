@@ -1,0 +1,15 @@
+Invoice No: INV-007
+Date: April 28, 2024
+
+Bill To:
+Company: Creative Designs
+Address: 555 Art Avenue, Design Town, USA
+
+Description                  Qty    Rate($)    Amount($)
+---------------------------------------------------------
+Artwork Creation             4      150        600
+Print Production             100    1          100
+---------------------------------------------------------
+Subtotal:                                      700
+Tax (3%):                                      21
+Total Amount Due:                              721

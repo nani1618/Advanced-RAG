@@ -1,0 +1,16 @@
+Invoice No: INV-001
+Date: April 1, 2024
+
+Bill To:
+Company: ABC Corporation
+Address: 123 Main Street, Anytown, USA
+
+Description                  Qty    Rate($)    Amount($)
+---------------------------------------------------------
+Consulting Services          10     100        1000
+Web Development             1      1500       1500
+Graphic Design              2      200        400
+---------------------------------------------------------
+Subtotal:                                      2900
+Tax (7%):                                      203
+Total Amount Due:                              3103

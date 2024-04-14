@@ -1,0 +1,15 @@
+Invoice No: INV-005
+Date: April 20, 2024
+
+Bill To:
+Company: Green Gardens
+Address: 654 Cedar Lane, Newville, USA
+
+Description                  Qty    Rate($)    Amount($)
+---------------------------------------------------------
+Landscaping Services         1      2000       2000
+Tree Planting                5      100        500
+---------------------------------------------------------
+Subtotal:                                      2500
+Tax (4%):                                      100
+Total Amount Due:                              2600

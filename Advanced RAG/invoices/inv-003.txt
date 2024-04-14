@@ -1,0 +1,15 @@
+Invoice No: INV-003
+Date: April 10, 2024
+
+Bill To:
+Company: Smith Enterprises
+Address: 789 Elm Street, Anycity, USA
+
+Description                  Qty    Rate($)    Amount($)
+---------------------------------------------------------
+Marketing Campaign           1      1200       1200
+Social Media Management      1      800        800
+---------------------------------------------------------
+Subtotal:                                      2000
+Tax (9%):                                      180
+Total Amount Due:                              2180

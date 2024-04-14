@@ -1,0 +1,15 @@
+Invoice No: INV-004
+Date: April 15, 2024
+
+Bill To:
+Company: Johnson Ltd.
+Address: 321 Pine Road, Othertown, USA
+
+Description                  Qty    Rate($)    Amount($)
+---------------------------------------------------------
+Consulting Services          8      120        960
+Training Session            2      300        600
+---------------------------------------------------------
+Subtotal:                                      1560
+Tax (6%):                                      93.6
+Total Amount Due:                              1653.6

@@ -1,0 +1,15 @@
+Invoice No: INV-006
+Date: April 25, 2024
+
+Bill To:
+Company: Tech Innovations
+Address: 987 High Street, Tech City, USA
+
+Description                  Qty    Rate($)    Amount($)
+---------------------------------------------------------
+Hardware Installation        3      300        900
+Network Setup                1      1500       1500
+---------------------------------------------------------
+Subtotal:                                      2400
+Tax (8%):                                      192
+Total Amount Due:                              2592

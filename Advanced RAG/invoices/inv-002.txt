@@ -1,0 +1,15 @@
+Invoice No: INV-002
+Date: April 5, 2024
+
+Bill To:
+Company: XYZ Company
+Address: 456 Oak Avenue, Sometown, USA
+
+Description                  Qty    Rate($)    Amount($)
+---------------------------------------------------------
+Software License             5      50         250
+Technical Support            1      500        500
+---------------------------------------------------------
+Subtotal:                                      750
+Tax (5%):                                      37.5
+Total Amount Due:                              787.5
